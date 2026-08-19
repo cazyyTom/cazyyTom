@@ -87,8 +87,8 @@ const CHAR_WIDTH = 9.3
 const TYPING_WIDTH = 78
 const TYPING_HEIGHT = 42
 const GAP = 6
-const TYPING_DURATION = 1.0
-const APPEAR_DURATION = 0.2
+const TYPING_DURATION = 0.5
+const APPEAR_DURATION = 0.15
 
 function escapeXml(str) {
   return str
