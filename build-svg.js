@@ -135,7 +135,7 @@ function typingIndicatorSVG(className) {
 
 function buildSVG(messages) {
   let cumulativeY = 0
-  let cumulativeTime = 0.2 
+  let cumulativeTime = 0.15
   const groups = []
   const keyframes = []
 
@@ -199,7 +199,7 @@ function buildSVG(messages) {
   </g>`)
 
     const readTime = Math.max(1.2, Math.min(3.5, msg.length * 0.03))
-    cumulativeTime = appearAt + APPEAR_DURATION + readTime
+    cumulativeTime = appearAt + APPEAR_DURATION
     cumulativeY += bubbleHeight + GAP
   })
 
