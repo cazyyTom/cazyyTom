@@ -192,8 +192,8 @@
   </g>
 
   <g transform="translate(10, 268)" class="msg-5 bubble-group">
-    <rect width="346" height="61" rx="18" class="bubble" />
-    <text x="15" y="27">you can check me on my Portfolio: </text>
-      <text x="15" y="50">@https://deveshtanwar.me</text>
+    <rect width="337" height="61" rx="18" class="bubble" />
+    <text x="15" y="27">you can check out my portfolio at</text>
+      <text x="15" y="50">https://deveshtanwar.me</text>
   </g>
 </svg>

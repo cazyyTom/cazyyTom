@@ -23,7 +23,7 @@ const CONFIG = {
       "it's a bot that reads your pull requests so your teammates don't have to.",
   },
 
-  contact: "you can check me on my Portfolio:  @https://deveshtanwar.me",
+  contact: "you can check out my portfolio at https://deveshtanwar.me",
 };
 
 // WMO weather codes -> emoji (Open-Meteo uses these)
